@@ -23,6 +23,8 @@ description: "La Reine Margot (English:Queen Margot) is a historical novel writt
   \ notably Catherine. Written in French, it was almost immediately translated into\
   \ English, first anonymously and soon afterward by David Bogue as Marguerite de\
   \ Valois: An Historical Romance.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13856#La-reine-Margot---Tome-I
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2004-10-25'
 gutenberg_type: Text
